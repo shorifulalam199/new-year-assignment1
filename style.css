@@ -285,7 +285,7 @@ button:hover{
 
     .holidayoffer-image-area{
         display: flex;
-        background-image: url(resources/Rectangle\ 2.png);
+        background-image: url(resources/Rectangle2.png);
         background-repeat: no-repeat;
         background-position: bottom;
         justify-content: space-between;
